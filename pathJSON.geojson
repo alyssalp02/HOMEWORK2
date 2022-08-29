@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "pathJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.648388701105404, 35.82346742484399 ], [ -78.64124516812069, 35.791816078696321 ], [ -78.64124516812069, 35.791816078696321 ] ] ] } }
+]
+}
